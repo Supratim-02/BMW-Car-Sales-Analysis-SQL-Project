@@ -1,4 +1,4 @@
-# 🚗 BMW Car Sales Analysis using SQL & Python
+# 🚗 BMW Car Sales Analysis using SQL
 
 A data analytics project using **MySQL and advanced SQL functions** to explore BMW car sales data, uncover pricing trends, fuel-type distribution, engine-size impact, performance variations, and consumer market behavior. Insights help optimize pricing, inventory selection, and sales forecasting.
 
